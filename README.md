@@ -145,6 +145,35 @@ The camera owner has control over viewer access and can deny or disconnect a vie
 
 This project is licensed under the MIT License.
 
+
+## Screenshots
+
+### Home
+
+![Home](docs/screenshots/home.png)
+
+### Share My Camera
+
+![Share Camera](docs/screenshots/share-camera.png)
+
+### Access Request
+
+![Access Request](docs/screenshots/access-request.png)
+
+### Owner Approval
+
+![Owner Approval](docs/screenshots/approval.png)
+
+### Viewer
+
+![Viewer](docs/screenshots/viewer.png)
+
+## Download
+
+The latest APK is available in the GitHub Releases section.
+
+[Download CamCon](../../releases/latest)
+
 ## Author
 
 **Shafiul Mujnibeen**
