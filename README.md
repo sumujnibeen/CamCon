@@ -153,25 +153,16 @@ This project is licensed under the MIT License.
 
 ## Screenshots
 
-### Home
+<p align="center">
+  <img src="docs/screenshots/home.png" width="220">
+  <img src="docs/screenshots/share-camera.png" width="220">
+  <img src="docs/screenshots/access-request.png" width="220">
+</p>
 
-![Home](docs/screenshots/home.png)
-
-### Share My Camera
-
-![Share Camera](docs/screenshots/share-camera.png)
-
-### Access Request
-
-![Access Request](docs/screenshots/access-request.png)
-
-### Owner Approval
-
-![Owner Approval](docs/screenshots/approval.png)
-
-### Viewer
-
-![Viewer](docs/screenshots/viewer.png)
+<p align="center">
+  <img src="docs/screenshots/approval.png" width="220">
+  <img src="docs/screenshots/viewer.png" width="220">
+</p>
 
 ## Download
 
