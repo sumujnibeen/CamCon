@@ -1,5 +1,10 @@
 # CamCon
 
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?logo=android&logoColor=white)](https://www.android.com/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.2.10-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/compose)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 CamCon is an Android application for secure local-network camera sharing.
 
 It allows one Android phone to share its camera and microphone feed over the same Wi-Fi network, while the owner keeps control over who can access the feed.
