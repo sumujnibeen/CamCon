@@ -156,11 +156,11 @@ This project is licensed under the MIT License.
 <p align="center">
   <img src="docs/screenshots/home.png" width="220">
   <img src="docs/screenshots/share-camera.png" width="220">
-  <img src="docs/screenshots/access-request.png" width="220">
+  <img src="docs/screenshots/approval.png" width="220">
 </p>
 
-<p align="center">
-  <img src="docs/screenshots/approval.png" width="220">
+<p align="center
+  <img src="docs/screenshots/access-request.png" width="220">
   <img src="docs/screenshots/viewer.png" width="220">
 </p>
 
