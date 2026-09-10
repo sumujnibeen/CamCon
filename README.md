@@ -141,6 +141,9 @@ The camera owner has control over viewer access and can deny or disconnect a vie
 - Internet-based remote streaming is not currently supported.
 - Streaming performance depends on the local Wi-Fi network and device hardware.
 
+## License
+
+This project is licensed under the MIT License.
 
 ## Author
 
