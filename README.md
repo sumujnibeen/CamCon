@@ -151,36 +151,34 @@ The camera owner has control over viewer access and can deny or disconnect a vie
 This project is licensed under the MIT License.
 
 
+
 ## Screenshots
 
-<p align="center">
-  <img src="docs/screenshots/home.png"
-       width="180"
-       height="390"
-       style="object-fit: contain; background-color: #000;">
+<table>
+  <tr>
+    <td bgcolor="#000000" align="center" valign="middle">
+      <img src="docs/screenshots/home.png" width="220">
+    </td>
+    <td bgcolor="#000000" align="center" valign="middle">
+      <img src="docs/screenshots/share-camera.png" width="220">
+    </td>
+    <td bgcolor="#000000" align="center" valign="middle">
+      <img src="docs/screenshots/access-request.png" width="220">
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#000000" align="center" valign="middle">
+      <img src="docs/screenshots/approval.png" width="220">
+    </td>
+    <td bgcolor="#000000" align="center" valign="middle">
+      <img src="docs/screenshots/viewer.png" width="220">
+    </td>
+    <td bgcolor="#000000"></td>
+  </tr>
+</table>
 
-  <img src="docs/screenshots/share-camera.png"
-       width="180"
-       height="390"
-       style="object-fit: contain; background-color: #000;">
 
-  <img src="docs/screenshots/access-request.png"
-       width="180"
-       height="390"
-       style="object-fit: contain; background-color: #000;">
-</p>
 
-<p align="center">
-  <img src="docs/screenshots/approval.png"
-       width="180"
-       height="390"
-       style="object-fit: contain; background-color: #000;">
-
-  <img src="docs/screenshots/viewer.png"
-       width="180"
-       height="390"
-       style="object-fit: contain; background-color: #000;">
-</p>
 ## Download
 
 The latest APK is available in the GitHub Releases section.
