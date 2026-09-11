@@ -24,12 +24,11 @@ It allows one Android phone to share its camera and microphone feed over the sam
 - Dark user interface
 - Android Jetpack Compose UI
 
-
 ## How It Works
 
 CamCon uses an owner-controlled access flow:
 
-Password → Access Request → Owner Approval → Live Feed
+**Password → Access Request → Owner Approval → Live Feed**
 
 The password alone does not grant access.
 
@@ -75,7 +74,9 @@ CamCon also supports browser-based viewing.
 
 On a device connected to the same Wi-Fi network, open:
 
+```text
 http://CAMERA_IP:8080/viewer
+```
 
 The browser will ask for the access password and wait for approval from the camera owner.
 
@@ -107,6 +108,7 @@ Recorded videos are saved to the device and can be accessed through the phone's 
 
 ## Project Structure
 
+```text
 CamCon/
 ├── app/
 ├── gradle/
@@ -117,12 +119,15 @@ CamCon/
 ├── gradlew.bat
 ├── .gitignore
 └── README.md
+```
 
 ## Development
 
 Clone the repository:
 
+```bash
 git clone https://github.com/sumujnibeen/CamCon.git
+```
 
 Open the project in Android Studio and allow Gradle to sync.
 
@@ -134,7 +139,7 @@ CamCon uses an owner-controlled access system.
 
 The access flow is:
 
-Password → Access Request → Owner Approval → Live Feed
+**Password → Access Request → Owner Approval → Live Feed**
 
 A valid password alone is not sufficient to access the camera feed.
 
@@ -150,34 +155,30 @@ The camera owner has control over viewer access and can deny or disconnect a vie
 
 This project is licensed under the MIT License.
 
-
-
 ## Screenshots
 
 <table>
   <tr>
-    <td bgcolor="#000000" align="center" valign="middle">
+    <td align="center" bgcolor="#000000">
       <img src="docs/screenshots/home.png" width="220">
     </td>
-    <td bgcolor="#000000" align="center" valign="middle">
+    <td align="center" bgcolor="#000000">
       <img src="docs/screenshots/share-camera.png" width="220">
     </td>
-    <td bgcolor="#000000" align="center" valign="middle">
+    <td align="center" bgcolor="#000000">
       <img src="docs/screenshots/access-request.png" width="220">
     </td>
   </tr>
   <tr>
-    <td bgcolor="#000000" align="center" valign="middle">
+    <td align="center" bgcolor="#000000">
       <img src="docs/screenshots/approval.png" width="220">
     </td>
-    <td bgcolor="#000000" align="center" valign="middle">
+    <td align="center" bgcolor="#000000">
       <img src="docs/screenshots/viewer.png" width="220">
     </td>
     <td bgcolor="#000000"></td>
   </tr>
 </table>
-
-
 
 ## Download
 
